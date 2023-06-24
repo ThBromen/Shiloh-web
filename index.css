@@ -91,6 +91,14 @@ header nav div ul li a:hover {
   height: 200px;
   width: 300px;
 }
+.calls p {
+  margin-top: 20px;
+}
+.calls a {
+  color: #080808;
+  background: #2809da;
+  margin-top: 20px;
+}
 .calls .one {
   margin: 50px;
   height: 300px;
@@ -123,7 +131,6 @@ header nav div ul li a:hover {
 .quotes {
   height: 100px;
   background: #e5e7eb;
-    
 }
 
 .quotes p {
@@ -134,13 +141,13 @@ header nav div ul li a:hover {
 .quotes h3 {
   margin-top: 30px;
   margin-left: 900px;
-   font-style: italic;
+  font-style: italic;
 }
 .action {
   height: 90px;
   display: flex;
   width: 70%;
-  background: #5707ec;
+  background: #3107ec;
   margin: 100px;
   margin-top: 70px;
   margin-left: 230px;
@@ -159,7 +166,6 @@ header nav div ul li a:hover {
   width: 30%;
   text-align: right;
   margin-top: 40px;
-  
 }
 .qww a {
   background: #2719a5;
