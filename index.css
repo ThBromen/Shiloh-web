@@ -82,79 +82,89 @@ header nav div ul li a:hover {
 }
 .calls {
   display: flex;
-  height: 500px;
+  height: 400px;
   align-items: center;
   background-color: #b0b3b8;
   /* border: 2px solid rgb(58, 53, 53); */
 }
 .calls img {
-  height: 300px;
+  height: 200px;
   width: 300px;
 }
 .calls .one {
   margin: 50px;
-  height: 400px;
-  width: 300px;
+  height: 300px;
+  width: 310px;
   background: #b9b4b4;
+  border: 2px solid rgb(25, 13, 182);
 }
 .calls .two {
   margin: 50px;
-  height: 400px;
-  width: 300px;
+  height: 300px;
+  width: 310px;
   background: #b9b4b4;
+  border: 2px solid rgb(32, 8, 138);
 }
 .calls .three {
   margin: 50px;
-  height: 400px;
-  width: 300px;
+  height: 300px;
+  width: 310px;
   background: #b9b4b4;
+  border: 2px solid rgb(17, 20, 163);
 }
 .calls .four {
   margin: 50px;
-  height: 400px;
-  width: 300px;
+  height: 300px;
+  width: 310px;
   background: #b9b4b4;
+  border: 2px solid rgb(27, 8, 194);
 }
 
 .quotes {
-  height: 250px;
+  height: 100px;
   background: #e5e7eb;
+    
 }
 
 .quotes p {
-  margin-left: 500px;
+  margin-left: 200px;
   /* margin-top: 50px; */
   font-style: italic;
 }
 .quotes h3 {
-  margin-top: 50px;
-  margin-left: 700px;
+  margin-top: 30px;
+  margin-left: 900px;
+   font-style: italic;
 }
 .action {
-  height: 150px;
+  height: 90px;
   display: flex;
-  width: 80%;
+  width: 70%;
   background: #5707ec;
   margin: 100px;
-  margin-top: 50px;
+  margin-top: 70px;
+  margin-left: 230px;
 }
 .action p {
-  text-align: center;
-  margin-top: 50px;
+  color: #e5e7eb;
+  margin-top: 30px;
+  margin-left: 300px;
 }
+
 .qw {
   width: 70%;
-  text-align: center;
+  /* text-align: center; */
 }
 .qww {
-  width: 50%;
+  width: 30%;
   text-align: right;
-  margin-top: 100px;
+  margin-top: 40px;
+  
 }
 .qww a {
   background: #2719a5;
-  border-radius: 2px white;
-  margin-right: 20%;
+  margin-right: 50%;
+  border: 2px solid rgb(240, 235, 235);
 }
 .last {
   padding: 1rem;
